@@ -1,0 +1,28 @@
+.wtp,
+.git {
+  width: 120px;
+  height: 50px;
+  border-radius: 28px;
+  background-color: #06d755;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.6);
+  border: none;
+  outline: none;
+  margin: 20px;
+  cursor: pointer;
+}
+
+.wtp:hover {
+  background-color: #01a540;
+}
+
+.git:hover {
+  background-color: #0055ff;
+}
+
+.git {
+  background-color: #246bfe;
+}
+
+.icone {
+  width: 30px;
+}

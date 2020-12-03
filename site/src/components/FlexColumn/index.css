@@ -1,0 +1,8 @@
+.flex-column {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px;
+}
