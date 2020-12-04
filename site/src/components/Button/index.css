@@ -3,7 +3,7 @@
   width: 100px;
   height: 40px;
   border-radius: 28px;
-  background-color: #06d755;
+  background-color: #01a540;
   box-shadow: 0 5px 5px rgba(0, 0, 0, 0.6);
   border: none;
   outline: none;
@@ -12,15 +12,17 @@
 }
 
 .wtp:hover {
-  background-color: #01a540;
-}
-
-.git:hover {
-  background-color: #0055ff;
+  background-color: #06d755;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.8);
 }
 
 .git {
+  background-color: #0055ff;
+}
+
+.git:hover {
   background-color: #246bfe;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.8);
 }
 
 .icone {
