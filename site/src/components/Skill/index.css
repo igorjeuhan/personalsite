@@ -1,0 +1,57 @@
+.skill {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: left;
+  justify-content: left;
+  width: 50%;
+}
+.titulos {
+  font-family: 'Poppins';
+  font-weight: 300;
+  letter-spacing: 1.5px;
+}
+
+#r {
+  color: #246bfe;
+}
+
+#h {
+  color: #06d755;
+}
+
+#c {
+  color: #c25fff;
+}
+
+#p {
+  color: #ffffff;
+}
+
+.skill-bar {
+  height: 20px;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.6);
+  color: #c25fff;
+  transition: 1s ease-in-out;
+}
+
+.skill-bar:hover {
+  width: 300px !important;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.8);
+}
+
+#react {
+  width: 100px;
+}
+
+#html {
+  width: 300px;
+}
+
+#css {
+  width: 250px;
+}
+
+#php {
+  width: 280px;
+}
